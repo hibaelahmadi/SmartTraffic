@@ -1,0 +1,15 @@
+# Maven
+target/
+*.class
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Confidentialité
+.env
+.env.local
